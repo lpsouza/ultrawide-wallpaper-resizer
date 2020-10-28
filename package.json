@@ -1,0 +1,16 @@
+{
+  "name": "ultrawide-wallpaper-resizer",
+  "version": "1.0.0",
+  "description": "This project aims to adjust wallpapers from DMB (https://www.dualmonitorbackgrounds.com/) website to fit on my screens width.",
+  "main": "app.js",
+  "type": "module",
+  "dependencies": {
+    "sharp": "^0.26.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "node --experimental-modules app.js"
+  },
+  "author": "Luiz Pereira de Souza Filho <lpsouza@gmail.com>",
+  "license": "MIT"
+}
