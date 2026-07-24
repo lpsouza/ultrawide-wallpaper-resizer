@@ -5,7 +5,7 @@
   "main": "app.js",
   "type": "module",
   "dependencies": {
-    "sharp": "^0.32.6"
+    "sharp": "^0.35.0"
   },
   "devDependencies": {},
   "scripts": {
